@@ -1,3 +1,3 @@
 # BoardGame
 
-BOWWWW
+- Hackathon 24h
